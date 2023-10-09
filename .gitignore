@@ -1,0 +1,5 @@
+# file with initial keys set to unseal and login to vault
+tests/vault-cluster-vault*.json
+
+# output generated directories
+output
